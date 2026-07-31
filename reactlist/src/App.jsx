@@ -10,7 +10,11 @@ function App() {
     { id: 1, description: "Revisar HTML" },
     { id: 2, description: "Revisar CSS" },
     { id: 3, description: "Revisar Reactjs" },
-    { id: 4, description: "Revisar React Native" },
+    { id: 5, description: "Revisar React Native" },
+    { id: 6, description: "Revisar React Native" },
+    { id: 6, description: "Revisar React Native" },
+    { id: 6, description: "Revisar React Native" },
+    
   ])
   //Effects
   //funções
