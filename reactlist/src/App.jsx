@@ -63,7 +63,7 @@ const confirmPutTask =  async(e) =>{
   e.preventDefault()
   if(taskValue.trim().length ==0){
     alert("preencha o texto da tarefa")
-    return false
+    return false  
   }
 
  try {
